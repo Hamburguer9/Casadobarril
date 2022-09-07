@@ -1,0 +1,17 @@
+<html DOCTYPE!>
+<html>
+<style>
+    background-color: black;
+    color: white;
+    padding: 25px 
+</style>
+    <h1> Casa do Barril </h1>
+<body>Seja muito bem-vindo à nossa casa</body>
+<li><a href= "#">Home</a></li>
+<li><a href= "#">Contactos</a></li>
+<li><a href="#">Sobre nós</a></li>
+<li><a href="#">Curiosidades</a></li>
+<li><a href="#">Mais...</a></li>
+<li><a href="#">Peças de arte</a></li>
+</html>
+</html>
